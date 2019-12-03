@@ -1,6 +1,6 @@
-# [orgoncooler](https://github.com/orgon-cooler/oregoncooler)
+# [orgoncooler](https://github.com/orgon-cooler/oregoncooler).modules.gas_extractor
 
-This repo contains the hardware design and server for the Oregon-Cooler. You can find each product in it's own folder in the `modules` folder.
+This folder contains the design and simulation files for the Oregon-Cooler Cold Water Gas Extractor.
 
 ## License
 
