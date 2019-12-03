@@ -1,6 +1,6 @@
-# [orgoncooler](https://github.com/orgon-cooler/oregoncooler)
+# [orgoncooler](https://github.com/orgon-cooler/oregoncooler).modules.cold_water_heater.cad
 
-This repo contains the hardware design and server for the Oregon-Cooler. You can find each product in it's own folder in the `modules` folder.
+This folder contains the CAD files for the Oregon-Cooler Cold Water Heater.
 
 ## License
 
