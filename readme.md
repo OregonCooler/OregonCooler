@@ -1,4 +1,4 @@
-# [orgoncooler](https://github.com/orgon-cooler/oregoncooler)
+# [oregoncooler](https://github.com/orgon-cooler/oregoncooler)
 
 This repo contains the hardware design and server for the Oregon-Cooler. You can find each product in it's own folder in the `modules` folder.
 
