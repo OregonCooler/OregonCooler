@@ -1,6 +1,6 @@
-# [orgoncooler](https://github.com/orgon-cooler/oregoncooler).modules.cold_water_heater
+# [oregon-cooler.orgoncooler](https://github.com/orgon-cooler/oregoncooler).ColdWaterHeater
 
-This folder contains the design and simulation files for the Oregon-Cooler Cold Water Heater.
+This folder contains the design and simulation files for the Oregon-Cooler Cold Water Heater. The DRY documentation for the Cold Water Heater can be found in the [Cold Water Heater chapter of the Greentech Cookbook](https://github.com/oregon-cooler/greentech.cookbook/tree/master/cold_water_heater).
 
 ## License
 
